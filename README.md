@@ -17,7 +17,7 @@ first of all you need to install mysql workbench so install mysql work bench got
 
  Step 3: 
  use command prompt (cmd) for the folder where you want to store the files so 
- # giclone 
+ # giclone https://github.com/Lahari-Nandigani/Railway-management.git
 
  Step 4: 
  After cloning you will get core folder navigate to core folder 
